@@ -1,0 +1,17 @@
+{
+  "version": "Supply Depot V2 + Performance-First Autonomy",
+  "platform": "Windows x64",
+  "entry": "ant.exe",
+  "runtime_directory": "_internal",
+  "requires_python_install": false,
+  "source_tests": 321,
+  "source_tests_passed": true,
+  "relocation_test_passed": true,
+  "exe_sha256": "cfde7f56d9288bb7beacf814b8061267e61c4cdb9a1954d31186f17bcbd87fb5",
+  "runtime_files_updated": 1,
+  "runtime_files_unchanged": 157,
+  "navigation_cache_fields": 48,
+  "navigation_node_budget": 65536,
+  "information_capacity": 12,
+  "information_events_per_turn": 128
+}

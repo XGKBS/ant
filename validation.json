@@ -1,0 +1,46 @@
+[
+  {
+    "arguments": [
+      "--size",
+      "64",
+      "--max-turns",
+      "2",
+      "--smoke-frames",
+      "150"
+    ],
+    "returncode": 0,
+    "relocated": true,
+    "python_not_on_path": true,
+    "seconds": 6.476876600005198
+  },
+  {
+    "arguments": [
+      "--size",
+      "512",
+      "--setup",
+      "--smoke-frames",
+      "10"
+    ],
+    "returncode": 0,
+    "relocated": true,
+    "python_not_on_path": true,
+    "seconds": 0.45316839999577496
+  },
+  {
+    "arguments": [
+      "--size",
+      "512",
+      "--smoke-frames",
+      "10"
+    ],
+    "returncode": 0,
+    "relocated": true,
+    "python_not_on_path": true,
+    "seconds": 0.8979468999896199
+  },
+  {
+    "final_location": "D:\\Codex\\ant\\ant.exe",
+    "returncode": 0,
+    "python_not_on_path": true
+  }
+]

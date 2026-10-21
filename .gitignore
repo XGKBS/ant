@@ -1,0 +1,29 @@
+﻿# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Licenses
+licenses/
+**/licenses/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
